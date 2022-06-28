@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 h1,
@@ -227,7 +227,7 @@ a:active {
 }
 
 .bg-primary {
-    background-color: #30336b !important;
+    background-color: #0c3e68 !important;
 }
 
 .bg-secondary {
